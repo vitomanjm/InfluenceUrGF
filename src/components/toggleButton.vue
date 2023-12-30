@@ -20,7 +20,7 @@ export default {
         toggleStyle() {
             const htmlSelector = document.querySelector('html');
             
-            htmlSelector.setAttribute('data-theme', htmlSelector.getAttribute('data-theme') === 'bumblebee' ? 'dark' : 'bumblebee');
+            htmlSelector.setAttribute('data-theme', htmlSelector.getAttribute('data-theme') === 'dark' ? 'light' : 'dark');
             
         }
     }

@@ -18,8 +18,8 @@
                     <div class="card  h-auto bg-base-100 shadow-xl image-full ml-0 mt-20 text-white">
                         <figure><img src="../icons/imageGirls/image.png" alt="Shoes" /></figure>
                         <div class="card-body w-auto">
-                            <h2 class="card-title">Hey you!</h2> <br> <br>
-                            <p>Ready for your next experience?</p>
+                            <h2 class="card-title ml-12">Hey you!</h2> <br> <br>
+                            <p class="ml-12">Ready for your next experience?</p>
                             <div class="card-actions justify-end">
                                 <button class="btn btn-primary">Get it now!</button>
                             </div>
@@ -54,7 +54,7 @@
                         </div>
                     </div>
 
-                    <div class="card  h-auto bg-base-100 shadow-xl  ml-0 mt-20 text-white">
+                    <div class="card  h-auto bg-base-100 shadow-xl  ml-0 mt-20">
                         <figure><img src="../icons/imageGirls/image3.png" alt="Shoes" /></figure>
                         <div class="card-body w-auto">
                             <h2 class="card-title">Get to know her</h2> <br> <br>
