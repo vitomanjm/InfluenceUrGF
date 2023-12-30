@@ -1,6 +1,6 @@
 # vue-project
 
-This is my Professional portfolio, it is a project that I have  developed with Vue.js and Tailwind
+This AI chat bot implementation
 
 This template should help get you started developing with Vue 3 in Vite.
 
